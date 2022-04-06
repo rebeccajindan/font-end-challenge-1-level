@@ -1,0 +1,88 @@
+
+
+body{
+background: url(bg-desktop.svg);
+background-color: hsl(257, 40%, 49%);
+color: white;
+position: absolute;
+
+}
+h1{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  position: absolute;
+  left:60px;
+}
+.top-container{
+position: absolute;
+top:40px;
+ left: 60px;
+
+}
+.chat-image{
+  width: 3rem;
+  position: absolute;
+  margin-top: 20px;
+
+}
+
+.middle-container{
+  top: 200px;
+  left: 60px;
+  position: absolute;
+}
+h2{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 2rem;
+}
+p{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
+  width: 50%;
+  margin-bottom: 40px;
+}
+
+.illustration{
+  position: absolute;
+}
+.body-message{
+  position: absolute;
+  left: 800px;
+  width: 70rem;
+}
+.social-icon{
+  position: absolute;
+  left: 1300px;
+  top:750px;
+  width: 10rem;
+}
+.btn {
+  -webkit-border-radius: 34;
+  -moz-border-radius: 34;
+  border-radius: 34px;
+  font-family: Arial;
+  color: violet;
+  font-size: 24px;
+  background: #ffffff;
+  padding: 7px 50px 7px 50px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #c061cf;
+  text-decoration: none;
+}
+.attribution{
+  text-decoration: none;
+}
+.wechat{
+  width: 40px;
+}
+.facebook{
+  width: 40px;
+}
+.twitter{
+  width: 40px;
+}
